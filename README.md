@@ -26,4 +26,4 @@ A simple CV builder app built with React, Tailwind CSS, and Shadcn UI.
 
 ## Demo
 
-![Demo](https://drive.google.com/file/d/1pniv6XBDi4VzolipOvsToes_kfuA1_Eb/view?usp=sharing)
+[Demo](https://drive.google.com/file/d/1pniv6XBDi4VzolipOvsToes_kfuA1_Eb/view?usp=sharing)
